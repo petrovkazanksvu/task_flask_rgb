@@ -1,0 +1,11 @@
+.git
+.cache
+ Dockerfile
+lib
+pyvenv.cfg
+bin
+.dockerignore
+.gitignore
+.idea
+__pycache__
+pyvenv.cfg

@@ -4,8 +4,6 @@ WORKDIR /var/rgb
 
 ENV PYTHONPATH="${PYTHONPATH}:/var/rgb"
 
-
-
 COPY requirements.txt requirements.txt
 
 RUN pip3 install -r requirements.txt
